@@ -1,0 +1,1 @@
+C:\Users\hussain.shah\Desktop\RUST\main_and_lib\target\debug\main_and_lib.exe: C:\Users\hussain.shah\Desktop\RUST\main_and_lib\mylibrary\src\lib.rs C:\Users\hussain.shah\Desktop\RUST\main_and_lib\src\lib.rs C:\Users\hussain.shah\Desktop\RUST\main_and_lib\src\main.rs C:\Users\hussain.shah\Desktop\RUST\main_and_lib\src\print.rs
